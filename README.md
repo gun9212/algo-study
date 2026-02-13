@@ -9,7 +9,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| FaceWithNull | 2 | ❌ |
+| FaceWithNull | 3 | ❌ |
 | tomchaccom | 4 | ❌ |
 <!-- WEEKLY_DASHBOARD_END -->
 
