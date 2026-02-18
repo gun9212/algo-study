@@ -8,7 +8,7 @@
 
 | Member | Count | Status |
 |--------|-------|--------|
-| FaceWithNull | 3 | ❌ |
+| FaceWithNull | 4 | ❌ |
 | LYoooJ | 3 | ❌ |
 | gun9212 | 1 | ❌ |
 | orca-svg | 1 | ❌ |
